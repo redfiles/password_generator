@@ -1,0 +1,11 @@
+Tool name : Text & Password generator (($)PSGE)
+Language  : Python
+Version   : 1.0.0
+Created On: 05/07/22
+
+If you get a bug, you can send to our email address.
+Email     : rowdyygaming@gmail.com 
+
+To run:
+	In linux   : "python3 ($)psge.py" use this command in terminal.
+	In windows : "python ($)psge.py" use this command in CMD or use a software.
