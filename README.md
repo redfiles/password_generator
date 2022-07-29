@@ -2,9 +2,9 @@
 This is a password generator created using python. You can use this for create numbers based passwords. Also, you can generate emails. This is a useful tool for hackers. 
 
 <h2>Kali Linux :</h2> 
-command : sudo git clone https://github.com/redfiles/password_generator.git
-command : cd PSGEv1.0.0
-command : chmod +x psge.py
+command : sudo git clone https://github.com/redfiles/password_generator.git <br>
+command : cd PSGEv1.0.0 <br>
+command : chmod +x psge.py <br>
 command : python psge.py
 
 <h2>How to use : </h2>
