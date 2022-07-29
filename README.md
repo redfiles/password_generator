@@ -4,6 +4,7 @@ This is a password generator created using python. You can use this for create n
 <h2>Kali Linux :</h2> 
 command : sudo git clone https://github.com/redfiles/password_generator.git
 command : cd PSGEv1.0.0
+command : chmod +x psge.py
 command : python psge.py
 
 <h2>How to use : </h2>
